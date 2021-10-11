@@ -1,0 +1,16 @@
+.flex-container{
+  display: flex;
+  min-height: 300px;
+  width: 100%;
+}
+.light-pink div{
+  background-color: #F5C6D6;
+}
+
+.dark-pink div{
+  background-color: #EE2E84;
+}
+
+.blue div{
+  background-color: #85CFD8;
+}
