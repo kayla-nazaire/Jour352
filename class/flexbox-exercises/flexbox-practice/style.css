@@ -2,15 +2,23 @@
   display: flex;
   min-height: 300px;
   width: 100%;
+  gap: 15px 15px;
+  margin-bottom: 15px;
 }
 .light-pink div{background-color: #F5C6D6;
-  flex-grow: 
+  flex-grow:1;
 }
 
 .dark-pink div{background-color: #EE2E84;
-  flex-grow:
+  flex-grow:1;
 }
 
 .blue div{background-color: #85CFD8;
-  flex-grow:
+  flex-grow:1;
 }
+.green {background-color:#8DC63F;
+flex-grow:3}
+.orange {background-color: #E76E34;
+flex-grow: 1}
+
+/* .flex-container div */
