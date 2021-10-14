@@ -3,14 +3,14 @@
   min-height: 300px;
   width: 100%;
 }
-.light-pink div{
-  background-color: #F5C6D6;
+.light-pink div{background-color: #F5C6D6;
+  flex-grow: 
 }
 
-.dark-pink div{
-  background-color: #EE2E84;
+.dark-pink div{background-color: #EE2E84;
+  flex-grow:
 }
 
-.blue div{
-  background-color: #85CFD8;
+.blue div{background-color: #85CFD8;
+  flex-grow:
 }
