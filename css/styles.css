@@ -1,8 +1,70 @@
 h1 {
     color: #33485e;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
 }
-
+.topper{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 img {
-    max-width: 600px;
+    max-width: 300px;
     width: 100%;
+    align-items: flex-end;
+}
+body{
+  border: 1px solid white;
+  align-items: center;
+  margin-left: 25%;
+  margin-right: 25%;
+
+}
+.tagline{
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+  border-bottom: 1px solid black;
+  width: 600px;
+  text-align: center;
+  font-style: italic;
+}
+.experience h2 {
+  background-color: #33485e;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+}
+.education h2{
+  background-color: #33485e;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+}
+.skills h2{
+  background-color: #33485e;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+}
+.experience{
+  border-bottom: 1px solid black;
+}
+.event{
+  border-bottom: 1px solid black;
+}
+ul.socials li{
+  display: inline;
+  padding: 4px;
+  border-right: 1px solid black;
+
+}
+ul.socials {
+  list-style: none;
+
+}
+.table{
+  display: table;
+  margin:0 auto;
 }
